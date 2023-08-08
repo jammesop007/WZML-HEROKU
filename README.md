@@ -1,5 +1,5 @@
 # Deploy to HEROKU
-### Click Action-->Manually Deploy to Heroku--->Run Workflow--->Select Branch pea-deploy
+### Click Action-->Manually Deploy to Heroku--->Run Workflow--->Select Branch main
 
 # Actions secrets and variables
 HEROKU_EMAIL: Heroku Account Email Id in which the above app will be deployed
